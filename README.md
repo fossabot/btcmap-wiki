@@ -1,6 +1,7 @@
 # BTC Map Wiki
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ad0aeac1-48c2-46ae-b117-5d350d6362ef/deploy-status)](https://app.netlify.com/sites/btcmap-wiki/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbtcmap-wiki.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbtcmap-wiki?ref=badge_shield)
 
 Created with [mdBook](https://github.com/rust-lang/mdBook)
 
@@ -16,3 +17,7 @@ Page edits can be made by making changes to the Markdown file in the `src` direc
 4. after making edits run `yarn format` to format the Markdown files
 
 ![Untitled](https://user-images.githubusercontent.com/85003930/194117128-2f96bafd-2379-407a-a584-6c03396a42cc.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbtcmap-wiki.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbtcmap-wiki?ref=badge_large)
